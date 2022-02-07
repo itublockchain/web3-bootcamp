@@ -19,6 +19,6 @@ Bu dersimizde Solidity ve Ethereum'a dair basit özelliklerden bahsedip Metamask
 
 [Remix IDE](https://www.remix.ethereum.org)
 
-[Names Kontrat Örneği](./Names.sol)
+[Names Kontrat Örneği - Rinkeby @ 0x43557ed01dFb3Db167aEA5c0f4981847E6DD64fa](./Names.sol)
 
 [Discord Kanalımız](https://discord.gg/ua5ZXJMNfF)
