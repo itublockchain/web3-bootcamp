@@ -1,6 +1,6 @@
 # Smart Contract Developer Bootcamp - İTÜ Blockchain Devs
 
-Bu dersimizde "Constructor, Constant and Immutable" konusunu işledik.
+Bu dersimizde "Constructor, Constant & Immutable" konusunu işledik.
 
 [Constructor](./Constructor.sol)
 
