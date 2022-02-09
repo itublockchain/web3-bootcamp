@@ -1,6 +1,8 @@
 # Introduction
 
 Bu dersimizde Solidity ve Ethereum'a dair basit özelliklerden bahsedip Metamask cüzdanı kurduk. Ardından ise bir akıllı kontrat örneği üzerinden Remix IDE kullanmayı öğrendik.
+
+[Video İçeriği](https://www.youtube.com/watch?v=7qeT0ieH1V4&list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73&index=1&t=5s)
 # Resources
 
 [Web3 Uygulamaları Makalesi](https://blog.ibby.dev/introduction-to-web3-development)
