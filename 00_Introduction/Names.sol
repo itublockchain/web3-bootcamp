@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract Names is Ownable {
     string public ownerName;
     string[] public names;
-    int256 private luckyNumber;
+    int256 private luckyNumber;/Users/ulerdogan/Code/Genesis/arşiv/100-109/yuzaltinci_bulten10.02.2022.html
 
     constructor(string memory _ownerName, int256 _luckyNumber) {
         ownerName = _ownerName;

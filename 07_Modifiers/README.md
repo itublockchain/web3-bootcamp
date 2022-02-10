@@ -2,7 +2,7 @@
 
 Bu dersimizde Modifiers konusunu işledik.
 
-[Video İçeriği](https://www.youtube.com/playlist?list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73)
+[Video İçeriği](https://www.youtube.com/watch?v=58MDeT4hoig&t=3s)
 
 [Modifier Kontrat Örneği](./Modifiers.sol)
 

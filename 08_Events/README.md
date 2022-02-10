@@ -2,6 +2,6 @@
 
 Bu dersimizde Event konusunu inceledik.
 
-[Video İçeriği](https://www.youtube.com/playlist?list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73)
+[Video İçeriği](https://www.youtube.com/watch?v=wM63xPvUekM)
 
 [Events Kontrat Örneği](./Events.sol)
