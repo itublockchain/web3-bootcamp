@@ -4,7 +4,7 @@ Devs komitemize yönelik oluşturduğumuz eğitim içerikleri ve kaynakların de
 
 İlgili bölümlerin videolu anlatımına Youtube kanalımız aracılığıyla ulaşabilirsiniz. Bölümler spontane olarak kaydedilmiştir veya canlı oturumlar Youtube'a aktarılmıştır.
 
-[YouTube Oynatma Listesi](https://www.youtube.com/watch?v=aZDdyhfesEc&list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73&index=6)
+[YouTube Oynatma Listesi](https://www.youtube.com/playlist?list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73)
 
 [Bizi Twitter'da Takip Edin](https://twitter.com/ITUBlockchain)
 

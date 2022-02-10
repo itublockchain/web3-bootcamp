@@ -2,7 +2,7 @@
 
 Bu dersimizde Modifiers konusunu işledik.
 
-[Video İçeriği](..)
+[Video İçeriği](https://www.youtube.com/playlist?list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73)
 
 [If Else Koşul Yapıları Kontrat Örneği](./Modifiers.sol)
 
