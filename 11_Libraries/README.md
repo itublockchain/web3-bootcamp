@@ -1,5 +1,6 @@
 # Smart Contract Developer Bootcamp - İTÜ Blockchain Devs
 
+Bu dersimizde Library konusunu işledik. 
 ...
 
-[](./.sol)
+[Library](./Library.sol)
