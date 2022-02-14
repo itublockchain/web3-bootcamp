@@ -20,5 +20,6 @@ function(string memory/calldata parameterString) external {
 }
 ```
 
+[Video İçeriği](https://www.youtube.com/watch?v=MzvzBp9l3y0&list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73&index=13)
 ...
 [Data Locations](./DataLocations.sol)
