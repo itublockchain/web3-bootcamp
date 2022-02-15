@@ -46,7 +46,7 @@ receive() var mı?  fallback()
         /      \
     receive()   fallback()
 */
-
+```
 
 [Video İçeriği](https://www.youtube.com/playlist?list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73)
 
