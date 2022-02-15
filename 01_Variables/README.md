@@ -3,6 +3,7 @@
 Bu dersimizde "Variables & Scopes" konusunu işledik. Ardından Solidity'de kod yazma sürecinde işimizi kolaylaştıran birimlere göz attık.
 
 Solidity'deki değişkenleri üç sınıfa ayırabiliriz:
+
 1- Sabit Boyutlu Türler(Fixed Size Types):
 - `bool`: Mantık değişkenidir. `true` ve `false` değerlerini tutar. Varsayılan olarak `false`'dur.
 - `int`: Sayıları tuttuğumuz değişkendir. 
@@ -41,12 +42,15 @@ Zaman Birimleri
 
 
 Solidity'de 3 tür değişken vardır:
+
 1-Yerel(Local):
 - Blockchain'de saklanmaz.
 - Fonksiyon içerisinde bildirilir.
+
 2-Durum(State):
 - Fonksiyon dışında bildirilir.
 - Blockchain'de saklanır.
+
 3-Global:
 - Blockchain ile ilgili değişkenler
 
