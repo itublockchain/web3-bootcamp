@@ -8,4 +8,4 @@ Devs komitemize yönelik oluşturduğumuz eğitim içerikleri ve kaynakların de
 
 [Bizi Twitter'da Takip Edin](https://twitter.com/ITUBlockchain)
 
-[Discord Kanalımızda JR.DEV Rolü Edinip Sorularınızı İletin](https://discord.gg/ua5ZXJMNfF)
+[Discord Kanalımızda JR.DEV Rolü Edinip Sorularınızı İletin](https://discord.gg/5HzQ4QzBGS)
