@@ -10,7 +10,6 @@ Solidity çoklu kalıtımı destekleyen bir programlama dilidir. Kontratlar `is`
 
 Miras sırası önemlidir. C3-linearization kurallarına göre `super` anahtar sözcüğü ile miras alınan kontrata erişebiliriz.
 
-...
 [Video İçeriği](https://www.youtube.com/watch?v=KSrhlrHlti4&list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73&index=14)
 
 [Interitance, virtual, override](./Inheritance.sol)
