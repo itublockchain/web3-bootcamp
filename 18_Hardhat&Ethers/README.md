@@ -101,6 +101,42 @@ Eğer bilgisayarınızda Node.js yüklü değilse [bu](https://nodejs.org/en/dow
 
     npx hardhat run scripts/deploy.js --network fuji
 ```
+<br/>
+
+# Yardımcı Fonksiyonlar
+### Chai Helpers
+
+``` javascript
+    await expect(token.transfer(walletTo.address, 1007)).to.be.reverted;
+
+    expect('0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B').to.be.properAddress;
+    expect(token).to.not.be.undefined;
+
+    expect(token.balanceOf("0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B")).to.be.equal(0);
+    
+    expect(token.balanceOf("0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B")).to.be.greaterThan(0);
+```
+
+### Ethers Helpers
+
+``` javascript
+    await ethers.getContractFactory("Token");
+    await ethers.getSigners();
+    ethers.utils.parseEther("100", 18);
+    ethers.utils.parseUnits("100", 18);
+    ethers.utils.formatEther("1000000000000000000", 18);
+    ethers.utils.formatUnits("100", 2);
+    ethers.constants.MaxUint256;
+
+    const provider = ethers.provider;
+    block_number = await provider.getBlockNumber();
+    await provider.getBlock(block_number)
+    block_timestamp = block.timestamp;
+```
+
+Not: [https://playground.ethers.org/](Ethers Playground)
+
+<br/>
 
 [Video İçeriği]()
 
