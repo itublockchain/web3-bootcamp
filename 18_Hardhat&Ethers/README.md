@@ -83,6 +83,11 @@ Eğer bilgisayarınızda Node.js yüklü değilse [bu](https://nodejs.org/en/dow
     npx hardhat compile
 ```
 
+### OpenZeppelin Kontratlarını Kullanmak için
+```bash
+    npm install @openzeppelin/contracts
+```
+
 ### Testlerin Çalıştırılması
 ```bash
     npx hardhat test
