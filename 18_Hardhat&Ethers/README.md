@@ -36,7 +36,7 @@ Eğer bilgisayarınızda Node.js yüklü değilse [bu](https://nodejs.org/en/dow
     npx hardhat
 ```
 
-### Gerekli eklentilerin kurulumu ([Ethers.js](https://docs.ethers.io/v5/), [Waffle](https://ethereum-waffle.readthedocs.io/en/latest/index.html))
+### Gerekli Eklentilerin Kurulumu ([Ethers.js](https://docs.ethers.io/v5/), [Waffle](https://ethereum-waffle.readthedocs.io/en/latest/index.html))
 ```bash
     npm install --save-dev @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffle ethereum-waffle chai
 
@@ -122,9 +122,9 @@ Eğer bilgisayarınızda Node.js yüklü değilse [bu](https://nodejs.org/en/dow
 ``` javascript
     await ethers.getContractFactory("Token");
     await ethers.getSigners();
-    ethers.utils.parseEther("100", 18);
+    ethers.utils.parseEther("100");
     ethers.utils.parseUnits("100", 18);
-    ethers.utils.formatEther("1000000000000000000", 18);
+    ethers.utils.formatEther("1000000000000000000");
     ethers.utils.formatUnits("100", 2);
     ethers.constants.MaxUint256;
 
@@ -134,10 +134,12 @@ Eğer bilgisayarınızda Node.js yüklü değilse [bu](https://nodejs.org/en/dow
     block_timestamp = block.timestamp;
 ```
 
-Not: [https://playground.ethers.org/](Ethers Playground)
+Not: [Ethers Playground](https://playground.ethers.org/)
 
 <br/>
 
 [Video İçeriği]()
+
+[Proje Dizini](./lock-project)
 
 [Boilerplate](./boilerplate)
