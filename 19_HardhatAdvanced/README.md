@@ -4,7 +4,7 @@ Bu dersimizde, bir önceki videoda geliştirdiğimiz [projenin](../18_Hardhat%26
 
 <br/>
 
-![img](./mainnet%20forking%20example.jpeg)
+<img src="./mainnet%20forking%20example.jpeg" alt="mainnet_forking" width="400"/>
 
 ### ```hardhat.config.js``` Dosyasının Düzenlenmesi
 ```javascript
