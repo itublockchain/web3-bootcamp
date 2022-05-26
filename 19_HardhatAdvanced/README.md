@@ -62,14 +62,33 @@ Bu dersimizde, bir önceki videoda geliştirdiğimiz [projenin](../18_Hardhat%26
 ### Zaman Yönetimi
 
 ``` javascript
-    async function increaseHours(value) {
+    async function increaseTime(value) {
         await provider.send('evm_increaseTime', [value]);
         await provider.send('evm_mine');
     }
+```
 
+### Adres Taklidi
+
+``` javascript
+    await hre.network.provider.request({
+        method: "hardhat_impersonateAccount",
+        params: ["0x770dE306a8E54b31d4eA18AA5aBf3Da1ef571A6C"],
+    });
+
+    owner = await ethers.getSigner("0x770dE306a8E54b31d4eA18AA5aBf3Da1ef571A6C");
+```
+
+### Mevcut Kontrata Erişme
+
+``` javascript
+    let provider = ethers.provider;
+    let token = new ethers.Contract("TOKEN_ADDRESS", "token_abi", provider);
 ```
 
 <br/>
+
+[Alchemy Dashboard](https://dashboard.alchemyapi.io/)
 
 [Video İçeriği](https://www.youtube.com/)
 
