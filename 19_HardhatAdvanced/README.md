@@ -88,8 +88,8 @@ Bu dersimizde, bir önceki videoda geliştirdiğimiz [projenin](../18_Hardhat%26
 
 <br/>
 
-[Alchemy Dashboard](https://dashboard.alchemyapi.io/)
-
-[Video İçeriği](https://www.youtube.com/)
+[Video İçeriği](https://www.youtube.com/watch?v=FyaivvNkrBE&ab_channel=ITUBlockchain)
 
 [Proje Dizini](./lock-project-advanced)
+
+[Alchemy Dashboard](https://dashboard.alchemyapi.io/)
