@@ -75,3 +75,8 @@ All of the educational content are prepared by our board & community members by 
 | Dev. Environments | Brownie & web3py      | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Postponed  | 2x5  |
 
 <hr/>
+
+## Smart Contract Security
+| Headline          | Topic                 | Instructor    | Status     | Code |
+| :---------------- | :-------------------- | :------------ | :--------- | :--: |
+| Smart Contract Sec. | Introduction and Attention Errors | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing | 4x0 |
