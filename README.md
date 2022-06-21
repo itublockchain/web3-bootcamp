@@ -107,7 +107,7 @@ This part includes content about Ethereum smart contract security and introduces
 | Security          | Security II           | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 4x1  |
 | Security          | Slither               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 4x2  |
 | Security          | Echidna               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 4x3  |
-| Security          | Podt Mortem Analyses  | [tahos.eth](https://twitter.com/0xTahos)     | Continual  | 4x4  |
+| Security          | Post Mortem Analyses  | [tahos.eth](https://twitter.com/0xTahos)     | Continual  | 4x4  |
 
 <hr/>
 
