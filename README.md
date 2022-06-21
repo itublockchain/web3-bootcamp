@@ -1,18 +1,16 @@
 # Open-Sourced Turkish Smart Contract Developer Bootcamp - ITU Blockchain
 
-<img src="./announce.png" alt="header" width="600"/>
+<img src="./itublockchain&ef.png" alt="header" width="800"/>
 
 <br/>
 
 Our bootcamp contains different subjects about blockchain & smart contract development knowledge. We have a team of students working on this project who are experts in the selected subjects.
 
-                            HIDDEN CONTENT
+We started to work on expanding our training content, which we started to prepare in February 2022, with the support we received from Ethereum Foundation. 
 
 You can reach the [curriculum](#curriculum) we have prepared in line with the education in this section. After the completion of the specified contents, we will work to expand it with pleasure.
 
 Please [contact us](mailto:blockchain@itu.edu.tr) if you are willing to contribute this project.
-
-<br/>
 
 [Our Youtube Channel](https://www.youtube.com/c/ITUBlockchain/)
 
@@ -32,13 +30,13 @@ All of the educational content are prepared by our board & community members by 
 * [zetsub0ii.eth](https://twitter.com/hamza_krb)
 * [farhad](https://twitter.com/asgarovf)
 
-
 <br/>
-<br/>   
 
 # Curriculum
 
 ## Solidity Basics
+
+This part contains basic Solidity knowledge that required to understand the syntax of the language and write smart contracts.
 
 | Headline          | Topic                 | Instructor    | Status     | Code |
 | :---------------- | :-------------------- | :------------ | :--------- | :--: |
@@ -65,18 +63,86 @@ All of the educational content are prepared by our board & community members by 
 
 ## Development Environments
 
+This part introduces the most popular developer tools, libraries, and environments for smart contract development. Also, uses these tools for testing and network interaction.
+
 | Headline          | Topic                 | Instructor    | Status     | Code |
 | :---------------- | :-------------------- | :------------ | :--------- | :--: |
 | Dev. Environments | Hardhat & Ethers      | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://www.youtube.com/watch?v=0stIYoi3KG8&list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73&index=19&t=3037s)  | 2x0  |
 | Dev. Environments | Hardhat Advanced      | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://www.youtube.com/watch?v=FyaivvNkrBE&ab_channel=ITUBlockchain)  | 2x1  |
 | Dev. Environments | Hardhat vs Foundry    | [zetsub0ii.eth](https://twitter.com/hamza_krb) | [Published](https://www.youtube.com/watch?v=1h43HzpzEvo&ab_channel=ITUBlockchain)  | 2x2  |
-| Dev. Environments | Foundry               | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 2x3  |
-| Dev. Environments | Go-Ethereum           | [0xulas.eth](https://twitter.com/ulerdogan)    | Postponed  | 2x4  |
-| Dev. Environments | Brownie & web3py      | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Postponed  | 2x5  |
+| Dev. Environments | Foundry Introduction  | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=kT1S2jKr0ns&list=PLby2HXktGwN6V6Rw_cK86pG0cirteMB90&index=4&t=10s)  | 2x3  |
+| Dev. Environments | Foundry Tests         | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=F0GvdvVeYC4&list=PLby2HXktGwN6V6Rw_cK86pG0cirteMB90&index=5)  | 2x4  |
+| Dev. Environments | Foundry III           | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 2x4  |
+| Dev. Environments | Foundry IV            | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 2x5  |
+| Dev. Environments | Go-Ethereum           | [0xulas.eth](https://twitter.com/ulerdogan)    | Postponed  | 2x6  |
+| Dev. Environments | Brownie & web3py      | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Postponed  | 2x7  |
 
 <hr/>
 
-## Smart Contract Security
+## Frontend & dApp Development
+
+This part uses React for creating UI's for smart contracts and create Web3 dApps. Also, lastly introduces [Ethylene.js](https://ethylene.itublockchain.com/) which is a React library prepared for us for React dApps.
+
 | Headline          | Topic                 | Instructor    | Status     | Code |
 | :---------------- | :-------------------- | :------------ | :--------- | :--: |
-| Smart Contract Sec. | Introduction and Attention Errors | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing | 4x0 |
+| Frontend & dApp   | Custom Hooks & Init.  | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=rMOofoBaryU&list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73&index=24)  | 3x0  |
+| Frontend & dApp   | Wallet Conn. & Ethers | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=QyC50nETRMc&list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73&index=25)  | 3x1  |
+| Frontend & dApp   | Contract Init.        | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=15PhvaArdWU&list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73&index=26)  | 3x2  |
+| Frontend & dApp   | Sending TXs           | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=HZCNT4N5nfs&ab_channel=ITUBlockchain)  | 3x3  |
+| Frontend & dApp   | Redux Tools & States  | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x4  |
+| Frontend & dApp   | Event Listening       | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x5  |
+| Frontend & dApp   | MM Network Management | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x6  |
+| Frontend & dApp   | Web3 Modal            | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x7  |
+| Frontend & dApp   | Intro. to Ethylene.js | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x8  |
+
+<hr/>
+
+## Security
+
+This part includes content about Ethereum smart contract security and introduces common mistakes or attacks, then explains some tools.
+
+| Headline          | Topic                 | Instructor    | Status     | Code |
+| :---------------- | :-------------------- | :------------ | :--------- | :--: |
+| Security          | Security I            | [zetsub0ii.eth](https://twitter.com/hamza_krb) | [Published](https://www.youtube.com/watch?v=SqTW-uKnsoE&ab_channel=ITUBlockchain)  | 4x0  |
+| Security          | Security II           | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 4x1  |
+| Security          | Slither               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 4x2  |
+| Security          | Echidna               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 4x3  |
+| Security          | Podt Mortem Analyses  | [tahos.eth](https://twitter.com/0xTahos)     | Continual  | 4x4  |
+
+<hr/>
+
+## Tutorials
+
+This part introduces some well-known usecases and contracts.
+
+| Headline          | Topic                 | Instructor    | Status     | Code |
+| :---------------- | :-------------------- | :------------ | :--------- | :--: |
+| Tutorials         | ERC-20                | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=qwrJPcqydTE&ab_channel=ITUBlockchain)  | 5x0  |
+| Tutorials         | ERC-721               | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 5x1  |
+| Tutorials         | ERC-1155              | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 5x2  |
+| Tutorials         | Marketplace Contracts | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 5x3  |
+| Tutorials         | Marketplace Interface | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 5x4  |
+| Tutorials         | Multisig Wallet       | [0xulas.eth](https://twitter.com/ulerdogan)    | Preparing  | 5x5  |
+| Tutorials         | Simple Game           | [0xulas.eth](https://twitter.com/ulerdogan)    | Preparing  | 5x6  |
+| Tutorials         | Bridge Contracts      | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x7  |
+| Tutorials         | Bridge Backend        | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x8  |
+| Tutorials         | Staking Contract      | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 5x9  |
+| Tutorials         | DEX                   | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x10 |
+
+<hr/>
+
+## Advanced Concepts
+
+This part introduces some advanced concepts in smart contract developing.
+
+| Headline          | Topic                 | Instructor    | Status     | Code |
+| :---------------- | :-------------------- | :------------ | :--------- | :--: |
+| Advanced Concepts | Merkle Trees          | [0xulas.eth](https://twitter.com/ulerdogan)    | Preparing  | 6x0  |
+| Advanced Concepts | Gas Optimizations     | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 6x1  |
+| Advanced Concepts | Proxy Contracts       | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 6x2  |
+| Advanced Concepts | NFT Collections       | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 6x3  |
+| Advanced Concepts | LayerZero Application | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 6x4  |
+| Advanced Concepts | Assembly I            | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 6x5  |
+| Advanced Concepts | Assembly II           | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 6x6  |
+| Advanced Concepts | Chainlink Application | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 6x7  |
+
