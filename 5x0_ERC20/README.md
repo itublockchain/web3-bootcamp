@@ -6,7 +6,7 @@ Bu dersimizde blockchain dünyasında en çok kullanılan kontratlar olan tokenl
 
 # ERC-20 token dokümantasyonları
 
-* [OpenZeppelin ERC-20 contract](https://github.com/OpenZeppelin/openzeppelin-contracts/contracts/token/ERC20)
+* [OpenZeppelin ERC-20 contract](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20)
 * [OpenZeppelin Token Dökümanyasyonu](https://docs.openzeppelin.com/contracts/4.x/tokens)
 * [Ethereum Dökümantasyonu](https://ethereum.org/en/developers/docs/standards/tokens/)
 
