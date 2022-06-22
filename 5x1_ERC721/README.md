@@ -6,7 +6,7 @@ Bu dersimizde ERC-20'den sonra ERC-721 token standartını inceledik. ERC-20 ile
 
 # ERC-721 token dokümantasyonları
 
-* [OpenZeppelin ERC-20 contract](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC721)
+* [OpenZeppelin ERC-721 contract](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC721)
 * [OpenZeppelin Token Dökümanyasyonu](https://docs.openzeppelin.com/contracts/4.x/tokens)
 * [Ethereum Dökümantasyonu](https://ethereum.org/en/developers/docs/standards/tokens/)
 
