@@ -118,7 +118,7 @@ This part introduces some well-known usecases and contracts.
 | Headline          | Topic                 | Instructor    | Status     | Code |
 | :---------------- | :-------------------- | :------------ | :--------- | :--: |
 | Tutorials         | ERC-20                | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=qwrJPcqydTE&ab_channel=ITUBlockchain)  | 5x0  |
-| Tutorials         | ERC-721               | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 5x1  |
+| Tutorials         | ERC-721               | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=zf4orRramo4)  | 5x1  |
 | Tutorials         | ERC-1155              | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 5x2  |
 | Tutorials         | Marketplace Contracts | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 5x3  |
 | Tutorials         | Marketplace Interface | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 5x4  |
