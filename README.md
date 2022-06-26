@@ -89,7 +89,7 @@ This part uses React for creating UI's for smart contracts and create Web3 dApps
 | Frontend & dApp   | Wallet Conn. & Ethers | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=QyC50nETRMc&list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73&index=25)  | 3x1  |
 | Frontend & dApp   | Contract Init.        | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=15PhvaArdWU&list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73&index=26)  | 3x2  |
 | Frontend & dApp   | Sending TXs           | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=HZCNT4N5nfs&ab_channel=ITUBlockchain)  | 3x3  |
-| Frontend & dApp   | Redux Tools & States  | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x4  |
+| Frontend & dApp   | Redux Toolkit  | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x4  |
 | Frontend & dApp   | Event Listening       | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x5  |
 | Frontend & dApp   | MM Network Management | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x6  |
 | Frontend & dApp   | Web3 Modal            | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x7  |
