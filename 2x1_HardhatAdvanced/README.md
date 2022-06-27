@@ -1,4 +1,4 @@
-# Smart Contract Developer Bootcamp - İTÜ Blockchain Devs
+# Smart Contract Developer Bootcamp - İTÜ Blockchain
 
 Bu dersimizde, bir önceki videoda geliştirdiğimiz [projenin](../18_Hardhat%26Ethers/) üzerine eklemeler yaparak Hardhat üzerinde daha ileri seviye konseptleri inceleyeceğiz. Hardhat'in "mainnet forking" ve "zamana dayalı test" imkanlarından faydalanacağız.
 

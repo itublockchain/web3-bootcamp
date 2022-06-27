@@ -1,4 +1,4 @@
-# Smart Contract Developer Bootcamp - İTÜ Blockchain Devs
+# Smart Contract Developer Bootcamp - İTÜ Blockchain
 
 Bu etkinliğimizde [Patika](https://www.patika.dev/)'ya konuk olduk. Akıllı kontratlara giriş üzerine sohbet ettik ve bir P2P Lending - Borrowing kontrat örneği üzerinden anlatım yaptık.
 

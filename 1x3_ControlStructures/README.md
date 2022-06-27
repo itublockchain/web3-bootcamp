@@ -1,4 +1,4 @@
-# Smart Contract Developer Bootcamp - İTÜ Blockchain Devs
+# Smart Contract Developer Bootcamp - İTÜ Blockchain
 
 Bu dersimizde "Control Structures" konusunu, yani If-Else kontrol yapılarını ve For - While döngülerini işledik.
 

@@ -1,4 +1,4 @@
-# Smart Contract Developer Bootcamp - İTÜ Blockchain Devs
+# Smart Contract Developer Bootcamp - İTÜ Blockchain
 
 Bu dersimizde "Variables & Scopes" konusunu işledik. Ardından Solidity'de kod yazma sürecinde işimizi kolaylaştıran birimlere göz attık.
 

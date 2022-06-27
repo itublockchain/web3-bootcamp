@@ -1,4 +1,4 @@
-# Smart Contract Developer Bootcamp - İTÜ Blockchain Devs
+# Smart Contract Developer Bootcamp - İTÜ Blockchain
 
 Bu dersimizde blockchain dünyasında en çok kullanılan kontratlar olan tokenlardan bahsettik. Token türlerinden bahsettikten sonra ERC-20 token kontratını inceledik. Ardından standart ERC-20 kontratını nasıl özelleştirip, onun gerekli durumlarda nasıl kullanılabileceğine dair örnek yaptık.
 

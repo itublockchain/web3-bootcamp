@@ -1,4 +1,4 @@
-# Smart Contract Developer Bootcamp - İTÜ Blockchain Devs
+# Smart Contract Developer Bootcamp - İTÜ Blockchain
 
 Bu dersimizde ERC-721'den sonra ERC-1155 token standartını inceledik. ERC-20 ve ERC-721 ile karşılaştırdıktan sonra OpenZeppelin tarafından hazırlanan standart kontratını inceledik. Ardından da bir kullanım örneğini görmek adına basit bir oyunda bu tokenı kullandık.
 
