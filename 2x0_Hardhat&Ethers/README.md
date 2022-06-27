@@ -1,4 +1,4 @@
-# Smart Contract Developer Bootcamp - İTÜ Blockchain Devs
+# Smart Contract Developer Bootcamp - İTÜ Blockchain
 
 Bu dersimizde akıllı kontrat geliştirirken sıklıkla kullanılan frameworklerden [Hardhat](https://hardhat.org/) ve akıllı kontratlar ile etkileşim sağlarken kullandığımız kütüphanelerden [ethers.js](https://docs.ethers.io/v5/) kullanarak bir uygulama geliştireceğiz.
 

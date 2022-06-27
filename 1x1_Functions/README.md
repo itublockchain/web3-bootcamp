@@ -1,4 +1,4 @@
-# Smart Contract Developer Bootcamp - İTÜ Blockchain Devs
+# Smart Contract Developer Bootcamp - İTÜ Blockchain
 
 Bu dersimizde "Functions, Function Modifiers and Function Visibility" konularını işledik.
 

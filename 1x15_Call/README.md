@@ -1,4 +1,4 @@
-# Smart Contract Developer Bootcamp - İTÜ Blockchain Devs
+# Smart Contract Developer Bootcamp - İTÜ Blockchain
 
 Bu dersimizde "call" methodu aracılığıyla low-level çağrılar yapma konusunu inceledik.
 

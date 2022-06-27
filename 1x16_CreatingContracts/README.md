@@ -1,4 +1,4 @@
-# Smart Contract Developer Bootcamp - İTÜ Blockchain Devs
+# Smart Contract Developer Bootcamp - İTÜ Blockchain
 
 Bu dersimizde akıllı kontratlar aracılığıyla farklı akıllı kontratlar deploy etme konusunu inceledik.
 

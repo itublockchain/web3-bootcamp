@@ -1,4 +1,4 @@
-# Smart Contract Developer Bootcamp - İTÜ Blockchain Devs
+# Smart Contract Developer Bootcamp - İTÜ Blockchain
 
 Bu dersimizde akıllı kontrat güvenliğine giriş yaptık ve akıllı kontrat yazarken yapılan hatalardan biri olan dikkat hatalarının üzerinden nasıl geleceğimize değindik.
 

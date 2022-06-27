@@ -1,4 +1,4 @@
-# Smart Contract Developer Bootcamp - İTÜ Blockchain Devs
+# Smart Contract Developer Bootcamp - İTÜ Blockchain
 
 Bu dersimizde Solidity'de hata mesajları yayınlayarak fonksiyonların çalışmasını engellediğimiz "error, revert, require, assert" gibi kullanımlara değindik.
 

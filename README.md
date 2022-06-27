@@ -88,9 +88,9 @@ This part uses React for creating UI's for smart contracts and create Web3 dApps
 | Frontend & dApp   | Custom Hooks & Init.  | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=rMOofoBaryU&list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73&index=24)  | 3x0  |
 | Frontend & dApp   | Wallet Conn. & Ethers | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=QyC50nETRMc&list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73&index=25)  | 3x1  |
 | Frontend & dApp   | Contract Init.        | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=15PhvaArdWU&list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73&index=26)  | 3x2  |
-| Frontend & dApp   | Sending TXs           | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=HZCNT4N5nfs&ab_channel=ITUBlockchain)  | 3x3  |
-| Frontend & dApp   | Redux Toolkit  | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x4  |
-| Frontend & dApp   | Event Listening       | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x5  |
+| Frontend & dApp   | Sending TXs           | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=HZCNT4N5nfs)  | 3x3  |
+| Frontend & dApp   | Redux Toolkit         | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=Ge8Qcu4Q2yY)  | 3x4  |
+| Frontend & dApp   | Event Listening       | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=-mUx6y0VKGg)  | 3x5  |
 | Frontend & dApp   | MM Network Management | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x6  |
 | Frontend & dApp   | Web3 Modal            | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x7  |
 | Frontend & dApp   | Intro. to Ethylene.js | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x8  |
@@ -119,7 +119,7 @@ This part introduces some well-known usecases and contracts.
 | :---------------- | :-------------------- | :------------ | :--------- | :--: |
 | Tutorials         | ERC-20                | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=qwrJPcqydTE&ab_channel=ITUBlockchain)  | 5x0  |
 | Tutorials         | ERC-721               | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=zf4orRramo4)  | 5x1  |
-| Tutorials         | ERC-1155              | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 5x2  |
+| Tutorials         | ERC-1155              | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=crX5IcUX3qE)  | 5x2  |
 | Tutorials         | Marketplace Contracts | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 5x3  |
 | Tutorials         | Marketplace Interface | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 5x4  |
 | Tutorials         | Multisig Wallet       | [0xulas.eth](https://twitter.com/ulerdogan)    | Preparing  | 5x5  |

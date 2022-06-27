@@ -1,4 +1,4 @@
-# Smart Contract Developer Bootcamp - İTÜ Blockchain Devs
+# Smart Contract Developer Bootcamp - İTÜ Blockchain
 
 Bu videomuzda Solidity'nin Inheritance özelliğini inceledik. Beraber "virtual, override, super, is" kelimelerinin ne olduğuna baktık. Openzeppelin Ownable contratına da göz attık.
 

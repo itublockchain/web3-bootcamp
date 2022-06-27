@@ -1,4 +1,4 @@
-# Smart Contract Developer Bootcamp - İTÜ Blockchain Devs
+# Smart Contract Developer Bootcamp - İTÜ Blockchain
 
 Bu dersimizde [Hardhat](https://hardhat.org) ve [Foundry](https://book.getfoundry.sh/) frameworkleri arasındaki temel farklara değindik.
 
