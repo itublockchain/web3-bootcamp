@@ -72,7 +72,7 @@ This part introduces the most popular developer tools, libraries, and environmen
 | Dev. Environments | Hardhat vs Foundry    | [zetsub0ii.eth](https://twitter.com/hamza_krb) | [Published](https://www.youtube.com/watch?v=1h43HzpzEvo&ab_channel=ITUBlockchain)  | 2x2  |
 | Dev. Environments | Foundry Introduction  | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=kT1S2jKr0ns&list=PLby2HXktGwN6V6Rw_cK86pG0cirteMB90&index=4&t=10s)  | 2x3  |
 | Dev. Environments | Foundry Tests         | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=F0GvdvVeYC4&list=PLby2HXktGwN6V6Rw_cK86pG0cirteMB90&index=5)  | 2x4  |
-| Dev. Environments | Foundry III           | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 2x4  |
+| Dev. Environments | Foundry Cheat Codes   | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=LGztd14iTwo&ab_channel=ITUBlockchain)  | 2x4  |
 | Dev. Environments | Foundry IV            | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 2x5  |
 | Dev. Environments | Go-Ethereum           | [0xulas.eth](https://twitter.com/ulerdogan)    | Postponed  | 2x6  |
 | Dev. Environments | Brownie & web3py      | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Postponed  | 2x7  |
@@ -104,7 +104,7 @@ This part includes content about Ethereum smart contract security and introduces
 | Headline          | Topic                 | Instructor    | Status     | Code |
 | :---------------- | :-------------------- | :------------ | :--------- | :--: |
 | Security          | Security I            | [zetsub0ii.eth](https://twitter.com/hamza_krb) | [Published](https://www.youtube.com/watch?v=SqTW-uKnsoE&ab_channel=ITUBlockchain)  | 4x0  |
-| Security          | Security II           | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 4x1  |
+| Security          | Security II           | [zetsub0ii.eth](https://twitter.com/hamza_krb) | [Published](https://youtu.be/QM1H84Z_Qtg)  | 4x1  |
 | Security          | Slither               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 4x2  |
 | Security          | Echidna               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 4x3  |
 | Security          | Post Mortem Analyses  | [tahos.eth](https://twitter.com/0xTahos)     | Continual  | 4x4  |
