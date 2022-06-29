@@ -72,10 +72,10 @@ This part introduces the most popular developer tools, libraries, and environmen
 | Dev. Environments | Hardhat vs Foundry    | [zetsub0ii.eth](https://twitter.com/hamza_krb) | [Published](https://www.youtube.com/watch?v=1h43HzpzEvo&ab_channel=ITUBlockchain)  | 2x2  |
 | Dev. Environments | Foundry Introduction  | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=kT1S2jKr0ns&list=PLby2HXktGwN6V6Rw_cK86pG0cirteMB90&index=4&t=10s)  | 2x3  |
 | Dev. Environments | Foundry Tests         | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=F0GvdvVeYC4&list=PLby2HXktGwN6V6Rw_cK86pG0cirteMB90&index=5)  | 2x4  |
-| Dev. Environments | Foundry Cheat Codes   | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=LGztd14iTwo&ab_channel=ITUBlockchain)  | 2x4  |
-| Dev. Environments | Foundry IV            | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 2x5  |
-| Dev. Environments | Go-Ethereum           | [0xulas.eth](https://twitter.com/ulerdogan)    | Postponed  | 2x6  |
-| Dev. Environments | Brownie & web3py      | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Postponed  | 2x7  |
+| Dev. Environments | Foundry Cheat Codes   | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=LGztd14iTwo&ab_channel=ITUBlockchain)  | 2x5  |
+| Dev. Environments | Foundry Traces        | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://youtu.be/Nv-tcxfW-mQ)  | 2x6  |
+| Dev. Environments | Go-Ethereum           | [0xulas.eth](https://twitter.com/ulerdogan)    | Postponed  | 2x7  |
+| Dev. Environments | Brownie & web3py      | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Postponed  | 2x8  |
 
 <hr/>
 
