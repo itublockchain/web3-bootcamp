@@ -1,0 +1,72 @@
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 85px;
+    background-color: white;
+    color: white;
+
+    .brand {
+        display: flex;
+        justify-content: center;
+        color: black;
+        align-items: center;
+        font-size: 24px;
+        gap: 10px;
+        font-weight: 600;
+    }
+
+    .logo {
+        width: 65px;
+        transition: all 0.3s;
+
+        &:hover {
+            transform: scale(1.1);
+            transition: all 0.3s;
+        }
+    }
+
+
+    .pages {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .links {
+        display: flex;
+
+        a {
+            margin: 0px 10px;
+            text-decoration: none;
+            width: 130px;
+            height: 40px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: rgba(4, 17, 29, 0.75);
+            font-size: 20px;
+
+            &:hover {
+                background-color: rgb(228, 228, 228, 0.3);
+                border-radius: 10px;
+            }
+        }
+    }
+
+
+    button {
+        width: 150px;
+        height: 50px;
+        background-color: rgb(32, 129, 226);
+        border-color: rgb(32, 129, 226);
+        border-radius: 10px;
+        color: white;
+        font-size: 18px;
+
+        &:hover {
+            transform: scale(1.01);
+            background-color: rgb(32, 129, 226, 0.9);
+        }
+    }
+}
