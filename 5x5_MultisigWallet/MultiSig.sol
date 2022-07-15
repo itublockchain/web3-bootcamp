@@ -7,10 +7,10 @@ contract MultiSig {
 
     uint256 public nonce;
     mapping(uint256 => Tx) public nonceToTx;
-    mapping(uint256 => mapping(address => bool)) txConfirmers;
+    mapping(uint256 => mapping(address => bool)) public txConfirmers;
 
-    event NewProposal(address propoeser, uint256 id);
-    event Executed(address executer, uint256 id, bool status);
+    event NewProposal(address proposer, uint256 id);
+    event Executed(address executor, uint256 id, bool success);
 
     struct Tx {
         address proposer;
@@ -29,6 +29,7 @@ contract MultiSig {
             _requiredConfirmations <= _signers.length,
             "Not enough signer."
         );
+
         signers = _signers;
         requiredConfirmations = _requiredConfirmations;
     }
@@ -42,7 +43,7 @@ contract MultiSig {
         address _txAddress,
         uint256 _value,
         bytes memory _txData
-    ) public onlySigners {
+    ) external onlySigners {
         require(_deadline > block.timestamp, "Time out");
 
         Tx memory _tx = Tx({
@@ -61,7 +62,7 @@ contract MultiSig {
         nonce++;
     }
 
-    function confirmTx(uint256 _nonce) public onlySigners {
+    function confirmTx(uint256 _nonce) external onlySigners {
         require(_nonce < nonce, "Not exists.");
         require(txConfirmers[_nonce][msg.sender] == false, "Already approved.");
         require(nonceToTx[_nonce].deadline > block.timestamp, "Time out");
@@ -71,11 +72,11 @@ contract MultiSig {
         txConfirmers[_nonce][msg.sender] = true;
     }
 
-    function rejectTx(uint256 _nonce) public onlySigners {
+    function rejectTx(uint256 _nonce) external onlySigners {
         require(_nonce < nonce, "Not exists.");
         require(
             txConfirmers[_nonce][msg.sender] == true,
-            "Already non-approved."
+            "Already non approved."
         );
         require(nonceToTx[_nonce].deadline > block.timestamp, "Time out");
         require(nonceToTx[_nonce].executed == false, "Already executed");
@@ -84,15 +85,16 @@ contract MultiSig {
         txConfirmers[_nonce][msg.sender] = false;
     }
 
-    function executeTx(uint256 _nonce) public onlySigners returns (bool) {
+    function executeTx(uint256 _nonce) external onlySigners returns (bool) {
         require(_nonce < nonce, "Not exists.");
         require(nonceToTx[_nonce].deadline > block.timestamp, "Time out");
         require(
             nonceToTx[_nonce].confirmations >= requiredConfirmations,
-            "Not confirmed."
+            "Already confirmed."
         );
-        require(nonceToTx[_nonce].executed == false, "Already executed.");
-        require(nonceToTx[_nonce].value >= address(this).balance);
+        require(nonceToTx[_nonce].executed == false, "Already executed");
+
+        require(nonceToTx[_nonce].value <= address(this).balance);
 
         nonceToTx[_nonce].executed = true;
 
@@ -106,22 +108,22 @@ contract MultiSig {
         return txSuccess;
     }
 
-    function deleteTx(uint256 _nonce) public {
-        require(nonceToTx[_nonce].executed == false, "Already executed.");
+    function deleteTx(uint256 _nonce) external onlySigners {
+        require(_nonce < nonce, "Not exists.");
+        require(nonceToTx[_nonce].executed == false, "Already executed");
         require(nonceToTx[_nonce].proposer == msg.sender, "Not tx owner.");
         require(
             nonceToTx[_nonce].confirmations < requiredConfirmations,
             "Already confirmed."
         );
-        
+
         nonceToTx[_nonce].executed = true;
     }
 
     function isUnique(address[] memory arr) private pure returns (bool) {
         for (uint256 i = 0; i < arr.length - 1; i++) {
-            
             for (uint256 j = i + 1; j < arr.length; j++) {
-                require(arr[i] != arr[j], "Duplicate addresses.");
+                require(arr[i] != arr[j], "Duplicate address.");
             }
         }
 
@@ -148,6 +150,6 @@ contract A {
     }
 
     function getFnData() public pure returns (bytes memory) {
-        return abi.encodeWithSignature("inc()");
+        return abi.encodeWithSignature("increment()");
     }
 }
