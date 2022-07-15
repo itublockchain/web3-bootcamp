@@ -91,7 +91,7 @@ This part uses React for creating UI's for smart contracts and create Web3 dApps
 | Frontend & dApp   | Sending TXs           | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=HZCNT4N5nfs)  | 3x3  |
 | Frontend & dApp   | Redux Toolkit         | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=Ge8Qcu4Q2yY)  | 3x4  |
 | Frontend & dApp   | Event Listening       | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=-mUx6y0VKGg)  | 3x5  |
-| Frontend & dApp   | MM Network Management | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x6  |
+| Frontend & dApp   | MM Network Management | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=3yLyvIV-LXA)  | 3x6  |
 | Frontend & dApp   | Web3 Modal            | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x7  |
 | Frontend & dApp   | Intro. to Ethylene.js | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x8  |
 
@@ -105,9 +105,11 @@ This part includes content about Ethereum smart contract security and introduces
 | :---------------- | :-------------------- | :------------ | :--------- | :--: |
 | Security          | Security I            | [zetsub0ii.eth](https://twitter.com/hamza_krb) | [Published](https://www.youtube.com/watch?v=SqTW-uKnsoE&ab_channel=ITUBlockchain)  | 4x0  |
 | Security          | Security II           | [zetsub0ii.eth](https://twitter.com/hamza_krb) | [Published](https://youtu.be/QM1H84Z_Qtg)  | 4x1  |
-| Security          | Slither               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 4x2  |
-| Security          | Echidna               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 4x3  |
-| Security          | Post Mortem Analyses  | [tahos.eth](https://twitter.com/0xTahos)     | Continual  | 4x4  |
+| Security          | Security III          | [tahos.eth](https://twitter.com/0xTahos)       | Preparing  | 4x2  |
+| Security          | Security IV           | [tahos.eth](https://twitter.com/0xTahos)       | Preparing  | 4x3  |
+| Security          | Slither               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 4x4  |
+| Security          | Echidna               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 4x5  |
+| Security          | Post Mortem Analyses  | [tahos.eth](https://twitter.com/0xTahos)       | Continual  | 4x6  |
 
 <hr/>
 
@@ -120,14 +122,15 @@ This part introduces some well-known usecases and contracts.
 | Tutorials         | ERC-20                | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=qwrJPcqydTE&ab_channel=ITUBlockchain)  | 5x0  |
 | Tutorials         | ERC-721               | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=zf4orRramo4)  | 5x1  |
 | Tutorials         | ERC-1155              | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=crX5IcUX3qE)  | 5x2  |
-| Tutorials         | Marketplace Contracts | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 5x3  |
-| Tutorials         | Marketplace Interface | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 5x4  |
+| Tutorials         | Marketplace Contracts | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=Gsw1QqvDU2Y)  | 5x3  |
+| Tutorials         | Marketplace Interface | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=0WmgdBdnd3E)  | 5x4  |
 | Tutorials         | Multisig Wallet       | [0xulas.eth](https://twitter.com/ulerdogan)    | Preparing  | 5x5  |
 | Tutorials         | Simple Game           | [0xulas.eth](https://twitter.com/ulerdogan)    | Preparing  | 5x6  |
 | Tutorials         | Bridge Contracts      | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x7  |
 | Tutorials         | Bridge Backend        | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x8  |
-| Tutorials         | Staking Contract      | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 5x9  |
+| Tutorials         | Staking Contract      | [tahos.eth](https://twitter.com/0xTahos)       | Preparing  | 5x9  |
 | Tutorials         | DEX                   | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x10 |
+| Tutorials         | Patika Q&A - Staking  | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://www.youtube.com/watch)  | GST  |
 
 <hr/>
 
