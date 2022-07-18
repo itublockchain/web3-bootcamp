@@ -16,6 +16,6 @@ Bu dersimizde çeşitli organizasyon fonlarının ve akıllı kontratlarının y
 
 <br/>
 
-[Video İçeriği]()
+[Video İçeriği](https://www.youtube.com/watch?v=XbMWZj0BYvA)
 
 [Wallet Kontratı](./MultiSig.sol)

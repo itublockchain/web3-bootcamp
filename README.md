@@ -92,8 +92,8 @@ This part uses React for creating UI's for smart contracts and create Web3 dApps
 | Frontend & dApp   | Redux Toolkit         | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=Ge8Qcu4Q2yY)  | 3x4  |
 | Frontend & dApp   | Event Listening       | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=-mUx6y0VKGg)  | 3x5  |
 | Frontend & dApp   | MM Network Management | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=3yLyvIV-LXA)  | 3x6  |
-| Frontend & dApp   | Web3 Modal            | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x7  |
-| Frontend & dApp   | Intro. to Ethylene.js | [farhad](https://twitter.com/asgarovf)        | Preparing  | 3x8  |
+| Frontend & dApp   | Web3 Modal            | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=0fTGF9Jh0Ug)  | 3x7  |
+| Frontend & dApp   | Intro. to Ethylene.js | [farhad](https://twitter.com/asgarovf)        | [Published](https://www.youtube.com/watch?v=A-eW_z8tcqI)  | 3x8  |
 
 <hr/>
 
@@ -124,8 +124,8 @@ This part introduces some well-known usecases and contracts.
 | Tutorials         | ERC-1155              | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=crX5IcUX3qE)  | 5x2  |
 | Tutorials         | Marketplace Contracts | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=Gsw1QqvDU2Y)  | 5x3  |
 | Tutorials         | Marketplace Interface | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=0WmgdBdnd3E)  | 5x4  |
-| Tutorials         | Multisig Wallet       | [0xulas.eth](https://twitter.com/ulerdogan)    | Preparing  | 5x5  |
-| Tutorials         | Simple Game           | [0xulas.eth](https://twitter.com/ulerdogan)    | Preparing  | 5x6  |
+| Tutorials         | Multisig Wallet       | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://www.youtube.com/watch?v=XbMWZj0BYvA)  | 5x5  |
+| Tutorials         | Simple Game           | [0xulas.eth](https://twitter.com/ulerdogan)    | Published  | 5x6  |
 | Tutorials         | Bridge Contracts      | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x7  |
 | Tutorials         | Bridge Backend        | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x8  |
 | Tutorials         | Staking Contract      | [tahos.eth](https://twitter.com/0xTahos)       | Preparing  | 5x9  |
