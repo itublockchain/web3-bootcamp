@@ -18,4 +18,4 @@ Bu dersimizde çeşitli organizasyon fonlarının ve akıllı kontratlarının y
 
 [Video İçeriği]()
 
-[Modifier Kontrat Örneği](./MultiSig.sol)
+[Wallet Kontratı](./MultiSig.sol)
