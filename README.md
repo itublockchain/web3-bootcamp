@@ -105,8 +105,8 @@ This part includes content about Ethereum smart contract security and introduces
 | :---------------- | :-------------------- | :------------ | :--------- | :--: |
 | Security          | Security I            | [zetsub0ii.eth](https://twitter.com/hamza_krb) | [Published](https://www.youtube.com/watch?v=SqTW-uKnsoE&ab_channel=ITUBlockchain)  | 4x0  |
 | Security          | Security II           | [zetsub0ii.eth](https://twitter.com/hamza_krb) | [Published](https://youtu.be/QM1H84Z_Qtg)  | 4x1  |
-| Security          | Security III          | [tahos.eth](https://twitter.com/0xTahos)       | Preparing  | 4x2  |
-| Security          | Security IV           | [tahos.eth](https://twitter.com/0xTahos)       | Preparing  | 4x3  |
+| Security          | Security III          | [tahos.eth](https://twitter.com/0xTahos)       | [Published](https://www.youtube.com/watch?v=OwAMZA4aNVk)  | 4x2  |
+| Security          | Security IV           | [tahos.eth](https://twitter.com/0xTahos)       | [Published](https://www.youtube.com/watch?v=bVfDsP4RvU4)  | 4x3  |
 | Security          | Slither               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 4x4  |
 | Security          | Echidna               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 4x5  |
 | Security          | Post Mortem Analyses  | [tahos.eth](https://twitter.com/0xTahos)       | Continual  | 4x6  |
