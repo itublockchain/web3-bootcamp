@@ -107,8 +107,8 @@ This part includes content about Ethereum smart contract security and introduces
 | Security          | Security II           | [zetsub0ii.eth](https://twitter.com/hamza_krb) | [Published](https://youtu.be/QM1H84Z_Qtg)  | 4x1  |
 | Security          | Security III          | [tahos.eth](https://twitter.com/0xTahos)       | [Published](https://www.youtube.com/watch?v=OwAMZA4aNVk)  | 4x2  |
 | Security          | Security IV           | [tahos.eth](https://twitter.com/0xTahos)       | [Published](https://www.youtube.com/watch?v=bVfDsP4RvU4)  | 4x3  |
-| Security          | Slither               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 4x4  |
-| Security          | Echidna               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 4x5  |
+| Security          | Slither               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | [Published](https://www.youtube.com/watch?v=QsFp_ql17Uk)  | 4x4  |
+| Security          | Echidna               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | [Published](https://www.youtube.com/watch?v=Xc-yFcPtMyI)  | 4x5  |
 | Security          | Post Mortem Analyses  | [tahos.eth](https://twitter.com/0xTahos)       | Continual  | 4x6  |
 
 <hr/>
@@ -125,7 +125,7 @@ This part introduces some well-known usecases and contracts.
 | Tutorials         | Marketplace Contracts | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=Gsw1QqvDU2Y)  | 5x3  |
 | Tutorials         | Marketplace Interface | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=0WmgdBdnd3E)  | 5x4  |
 | Tutorials         | Multisig Wallet       | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://www.youtube.com/watch?v=XbMWZj0BYvA)  | 5x5  |
-| Tutorials         | Simple Game           | [0xulas.eth](https://twitter.com/ulerdogan)    | Published  | 5x6  |
+| Tutorials         | Simple Game           | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://www.youtube.com/watch?v=DtnFYq_sxvU)  | 5x6  |
 | Tutorials         | Bridge Contracts      | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x7  |
 | Tutorials         | Bridge Backend        | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x8  |
 | Tutorials         | Staking Contract      | [tahos.eth](https://twitter.com/0xTahos)       | Preparing  | 5x9  |
