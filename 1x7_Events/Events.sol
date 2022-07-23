@@ -1,4 +1,4 @@
-//SPDX-License-Identifier: Unlicensed
+//SPDX-License-Identifier: MIT
 //@notice it's advanced version of previous parts example
 pragma solidity ^0.8.0;
 
