@@ -17,7 +17,7 @@ contract Web3Jam is ERC721, ERC721Burnable, Ownable {
 
     constructor() ERC721("Web3Jam", "W3J") {}
 
-    function safeMint(address to) public onlyOwner {
+    function safeMint(address to) public onlyAuthorized {
         playerCount++;
         (uint8 a, uint8 d) = getPowers();
         players[playerCount] = Player(a, d);
