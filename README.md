@@ -126,10 +126,9 @@ This part introduces some well-known usecases and contracts.
 | Tutorials         | Marketplace Interface | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=0WmgdBdnd3E)  | 5x4  |
 | Tutorials         | Multisig Wallet       | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://www.youtube.com/watch?v=XbMWZj0BYvA)  | 5x5  |
 | Tutorials         | Simple Game           | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://www.youtube.com/watch?v=DtnFYq_sxvU)  | 5x6  |
-| Tutorials         | Bridge Contracts      | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x7  |
-| Tutorials         | Bridge Backend        | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x8  |
-| Tutorials         | Staking Contract      | [tahos.eth](https://twitter.com/0xTahos)       | Preparing  | 5x9  |
-| Tutorials         | DEX                   | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x10 |
+| Tutorials         | Staking Contract      | [alimsahin.eth](https://twitter.com/aalimsahin)       | [Published](https://www.youtube.com/watch?v=BSGkOhwdx1c&ab_channel=ITUBlockchain)  | 5x7  |
+| Tutorials         | Bridges               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x8  |
+| Tutorials         | DEX                   | [tahos.eth](https://twitter.com/0xTahos) | Preparing  | 5x9 |
 | Tutorials         | Patika Q&A - Staking  | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://www.youtube.com/watch)  | GST  |
 
 <hr/>
@@ -140,7 +139,7 @@ This part introduces some advanced concepts in smart contract developing.
 
 | Headline          | Topic                 | Instructor    | Status     | Code |
 | :---------------- | :-------------------- | :------------ | :--------- | :--: |
-| Advanced Concepts | Merkle Trees          | [0xulas.eth](https://twitter.com/ulerdogan)    | Preparing  | 6x0  |
+| Advanced Concepts | Merkle Trees          | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://youtu.be/9gGkPPui_tw)  | 6x0  |
 | Advanced Concepts | Gas Optimizations     | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 6x1  |
 | Advanced Concepts | Proxy Contracts       | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 6x2  |
 | Advanced Concepts | NFT Collections       | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 6x3  |
