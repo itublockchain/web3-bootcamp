@@ -109,7 +109,7 @@ This part includes content about Ethereum smart contract security and introduces
 | Security          | Security IV           | [tahos.eth](https://twitter.com/0xTahos)       | [Published](https://www.youtube.com/watch?v=bVfDsP4RvU4)  | 4x3  |
 | Security          | Slither               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | [Published](https://www.youtube.com/watch?v=QsFp_ql17Uk)  | 4x4  |
 | Security          | Echidna               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | [Published](https://www.youtube.com/watch?v=Xc-yFcPtMyI)  | 4x5  |
-| Security          | Post Mortem Analyses  | [tahos.eth](https://twitter.com/0xTahos)       | Continual  | 4x6  |
+| Security          | Post Mortem Analyzes  | Team        | [Otopsi](#otopsi)  | 4x6  |
 
 <hr/>
 
@@ -148,3 +148,21 @@ This part introduces some advanced concepts in smart contract developing.
 | Advanced Concepts | Assembly II           | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 6x6  |
 | Advanced Concepts | Chainlink Application | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 6x7  |
 
+<hr/>
+<br/>
+
+# Otopsi
+
+ITU Blockchain introduced a new series called [Otopsi](https://www.youtube.com/playlist?list=PLby2HXktGwN6xdcr2RHMhdmpHUvt3SbnQ)!
+
+<img src="./videoimgs/otopsi.jpeg" alt="otopsi" width="800"/>
+
+From now on, Post-Mortem Analyzes will be carried out under this series with a larger team.
+
+<hr/>
+
+| Index    | Topic                 | Link |
+| :------  | :-------------------- | :--- |
+| Otopsi 0 | Nomad Bridge          | [Go](https://www.youtube.com/watch?v=yn2s5WkdASo&list=PLby2HXktGwN6xdcr2RHMhdmpHUvt3SbnQ&index=1&t=936s&ab_channel=ITUBlockchain)   |
+| Otopsi 1 | Slope Wallet          | [Go](https://www.youtube.com/watch?v=zAazp8he8gI&list=PLby2HXktGwN6xdcr2RHMhdmpHUvt3SbnQ&index=2&t=6s&ab_channel=ITUBlockchain)   |
+| Otopsi 2 | Tornado Cash          | [Go](https://www.youtube.com/watch?v=TYc3pBlQGM0&list=PLby2HXktGwN6xdcr2RHMhdmpHUvt3SbnQ&index=3&ab_channel=ITUBlockchain)   |
