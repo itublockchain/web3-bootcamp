@@ -126,9 +126,10 @@ This part introduces some well-known usecases and contracts.
 | Tutorials         | Marketplace Interface | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=0WmgdBdnd3E)  | 5x4  |
 | Tutorials         | Multisig Wallet       | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://www.youtube.com/watch?v=XbMWZj0BYvA)  | 5x5  |
 | Tutorials         | Simple Game           | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://www.youtube.com/watch?v=DtnFYq_sxvU)  | 5x6  |
-| Tutorials         | Staking Contract      | [alimsahin.eth](https://twitter.com/aalimsahin)       | [Published](https://www.youtube.com/watch?v=BSGkOhwdx1c&ab_channel=ITUBlockchain)  | 5x7  |
-| Tutorials         | Bridges               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x8  |
-| Tutorials         | DEX                   | [tahos.eth](https://twitter.com/0xTahos) | Preparing  | 5x9 |
+| Tutorials         | Staking Contracts I   | [alimsahin.eth](https://twitter.com/aalimsahin)       | [Published](https://www.youtube.com/watch?v=BSGkOhwdx1c&ab_channel=ITUBlockchain)  | 5x7  |
+| Tutorials         | Staking Contracts II  | [alimsahin.eth](https://twitter.com/aalimsahin)       | Preparing  | 5x8  |
+| Tutorials         | Bridges               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x9  |
+| Tutorials         | DEX                   | [tahos.eth](https://twitter.com/0xTahos) | Preparing  | 5x10 |
 | Tutorials         | Patika Q&A - Staking  | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://www.youtube.com/watch)  | GST  |
 
 <hr/>
@@ -140,12 +141,12 @@ This part introduces some advanced concepts in smart contract developing.
 | Headline          | Topic                 | Instructor    | Status     | Code |
 | :---------------- | :-------------------- | :------------ | :--------- | :--: |
 | Advanced Concepts | Merkle Trees          | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://youtu.be/9gGkPPui_tw)  | 6x0  |
-| Advanced Concepts | Gas Optimizations     | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 6x1  |
-| Advanced Concepts | Proxy Contracts       | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 6x2  |
-| Advanced Concepts | NFT Collections       | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 6x3  |
-| Advanced Concepts | LayerZero Application | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 6x4  |
-| Advanced Concepts | Assembly I            | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 6x5  |
-| Advanced Concepts | Assembly II           | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 6x6  |
+| Advanced Concepts | EVM Explained        | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=TxgIvRhEHiU&ab_channel=ITUBlockchain)  | 6x1  |
+| Advanced Concepts | Gas Optimizations     | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 6x2  |
+| Advanced Concepts | Proxy Contracts       | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 6x3  |
+| Advanced Concepts | NFT Collections       | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 6x4  |
+| Advanced Concepts | LayerZero Application | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 6x5  |
+| Advanced Concepts | Assembly              | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 6x6  |
 | Advanced Concepts | Chainlink Application | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 6x7  |
 
 <hr/>
