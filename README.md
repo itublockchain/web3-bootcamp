@@ -142,7 +142,7 @@ This part introduces some advanced concepts in smart contract developing.
 | :---------------- | :-------------------- | :------------ | :--------- | :--: |
 | Advanced Concepts | Merkle Trees          | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://youtu.be/9gGkPPui_tw)  | 6x0  |
 | Advanced Concepts | EVM Explained        | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=TxgIvRhEHiU&ab_channel=ITUBlockchain)  | 6x1  |
-| Advanced Concepts | Gas Optimizations     | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 6x2  |
+| Advanced Concepts | Gas Optimizations     | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=8npYT9FpKls&ab_channel=ITUBlockchain)  | 6x2  |
 | Advanced Concepts | Proxy Contracts       | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 6x3  |
 | Advanced Concepts | NFT Collections       | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 6x4  |
 | Advanced Concepts | LayerZero Application | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 6x5  |
