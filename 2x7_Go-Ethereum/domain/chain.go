@@ -13,7 +13,7 @@ type AddressQuery struct {
 }
 
 func (q *AddressQuery) Validate() errutils.ApiError {
-	if !ethutils.IsValidAddress(q.Address) {
+	if !ethutils.IsValidAddress(q.Address) || ethutils.IsZeroAddress(q.Address) {
 		err := errutils.NewBadRequestError("Invalid address")
 		return err
 	}
@@ -31,7 +31,7 @@ type FaucetRequest struct {
 }
 
 func (r *FaucetRequest) Validate() errutils.ApiError {
-	if !ethutils.IsValidAddress(r.Address) {
+	if !ethutils.IsValidAddress(r.Address) || ethutils.IsZeroAddress(r.Address)  {
 		apiErr := errutils.NewBadRequestError("Invalid address")
 		return apiErr
 	}
