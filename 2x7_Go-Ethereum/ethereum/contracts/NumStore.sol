@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: GPL-3.0
+// 0x5fdE8808a25ea3c4DE959081b225661363b2B11a - fuji
 pragma solidity ^0.8.0;
 
 contract NumStore {

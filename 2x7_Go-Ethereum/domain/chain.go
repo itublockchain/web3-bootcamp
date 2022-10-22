@@ -1,9 +1,11 @@
 package domain
 
 import (
-	"github.com/ethereum/go-ethereum/common"
 	errutils "go-ethereum-tutorial/utils/error_utils"
 	ethutils "go-ethereum-tutorial/utils/ethereum_utils"
+
+	"github.com/ethereum/go-ethereum/common"
+	"github.com/shopspring/decimal"
 )
 
 type AddressQuery struct {
@@ -19,8 +21,8 @@ func (q *AddressQuery) Validate() errutils.ApiError {
 }
 
 type AddressResponse struct {
-	Address common.Address `json:"user_addr"`
-	Balance string         `json:"balance"`
+	Address common.Address  `json:"user_addr"`
+	Balance decimal.Decimal `json:"balance"`
 }
 
 type FaucetRequest struct {
@@ -41,7 +43,6 @@ func (r *FaucetRequest) Validate() errutils.ApiError {
 }
 
 type FaucetResponse struct {
-	Address common.Address `json:"user_addr"`
-	Amount  uint           `json:"amount"`
-	Balance string         `json:"balance"`
+	Address common.Address  `json:"user_addr"`
+	Amount  decimal.Decimal `json:"amount"`
 }

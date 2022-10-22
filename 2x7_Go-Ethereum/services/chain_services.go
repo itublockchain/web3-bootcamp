@@ -20,7 +20,10 @@ func init() {
 }
 
 func (ns *chainService) GetBalance(Q domain.AddressQuery) (*domain.AddressResponse, errutils.ApiError) {
-	Q.Validate()
+	err := Q.Validate()
+	if err != nil {
+		return nil, errutils.NewBadRequestError("False input format.")
+	}
 
 	request, err := ethereum.ChainInteraction.GetBalance(Q)
 	if err != nil {
@@ -30,7 +33,10 @@ func (ns *chainService) GetBalance(Q domain.AddressQuery) (*domain.AddressRespon
 }
 
 func (ns *chainService) Faucet(R domain.FaucetRequest) (*domain.FaucetResponse, errutils.ApiError) {
-	R.Validate()
+	err := R.Validate()
+	if err != nil {
+		return nil, errutils.NewBadRequestError("False input format.")
+	}
 
 	response, err := ethereum.ChainInteraction.Faucet(R)
 	if err != nil {
