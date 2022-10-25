@@ -74,8 +74,8 @@ This part introduces the most popular developer tools, libraries, and environmen
 | Dev. Environments | Foundry Tests         | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=F0GvdvVeYC4&list=PLby2HXktGwN6V6Rw_cK86pG0cirteMB90&index=5)  | 2x4  |
 | Dev. Environments | Foundry Cheat Codes   | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=LGztd14iTwo&ab_channel=ITUBlockchain)  | 2x5  |
 | Dev. Environments | Foundry Traces        | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://youtu.be/Nv-tcxfW-mQ)  | 2x6  |
-| Dev. Environments | Go-Ethereum           | [0xulas.eth](https://twitter.com/ulerdogan)    | Postponed  | 2x7  |
-| Dev. Environments | Brownie & web3py      | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Postponed  | 2x8  |
+| Dev. Environments | Go-Ethereum Introduction  | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://www.youtube.com/watch?v=WssH4iW48tM&ab_channel=ITUBlockchain)  | 2x7  |
+| Dev. Environments | Go-Ethereum Implementation | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://www.youtube.com/watch?v=xepBA8cnsZo&ab_channel=ITUBlockchain)  | 2x8  |
 
 <hr/>
 
@@ -144,10 +144,9 @@ This part introduces some advanced concepts in smart contract developing.
 | Advanced Concepts | EVM Explained        | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=TxgIvRhEHiU&ab_channel=ITUBlockchain)  | 6x1  |
 | Advanced Concepts | Gas Optimizations     | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=8npYT9FpKls&ab_channel=ITUBlockchain)  | 6x2  |
 | Advanced Concepts | Proxy Contracts       | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 6x3  |
-| Advanced Concepts | NFT Collections       | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 6x4  |
-| Advanced Concepts | LayerZero Application | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 6x5  |
-| Advanced Concepts | Assembly              | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 6x6  |
-| Advanced Concepts | Chainlink Application | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 6x7  |
+| Advanced Concepts | LayerZero Application | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 6x4  |
+| Advanced Concepts | Assembly              | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 6x5  |
+| Advanced Concepts | Chainlink Application | [alimsahin.eth](https://twitter.com/aalimsahin) | Preparing  | 6x6  |
 
 <hr/>
 <br/>
