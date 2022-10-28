@@ -23,6 +23,7 @@ Klasörü klonlayıp çalışmak için:
 ```bash
     npm i
 ```
+[Video İçeriği](https://youtu.be/9gGkPPui_tw)
 
 [Merkle Tree Oluşturma Scripti](.merkle.js)
 

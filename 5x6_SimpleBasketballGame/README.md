@@ -4,6 +4,6 @@ Bu dersimizde akıllı kontrat geliştirme pratiği oluşturma adına NFT tabanl
 
 <br/>
 
-[Video İçeriği]()
+[Video İçeriği](https://youtu.be/DtnFYq_sxvU)
 
-[Proje Kontratları](./contractsl)
+[Proje Kontratları](./contracts)
