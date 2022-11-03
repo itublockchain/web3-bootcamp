@@ -129,7 +129,9 @@ This part introduces some well-known usecases and contracts.
 | Tutorials         | Staking Contracts I   | [alimsahin.eth](https://twitter.com/aalimsahin)       | [Published](https://www.youtube.com/watch?v=BSGkOhwdx1c&ab_channel=ITUBlockchain)  | 5x7  |
 | Tutorials         | Staking Contracts II  | [alimsahin.eth](https://twitter.com/aalimsahin)       | Preparing  | 5x8  |
 | Tutorials         | Basic DEX & AMM     | [tahos.eth](https://twitter.com/0xTahos) | [Published](https://youtu.be/6AUfrT1Envw)  | 5x9  |
-| Tutorials         | Bridges               | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x10 |
+| Tutorials         | Bridges Introduction    | [zetsub0ii.eth](https://twitter.com/hamza_krb) | [Published](https://youtu.be/Z1ZSACgVsgA)  | 5x10 |
+| Tutorials         | Bridge Developing I   | [zetsub0ii.eth](https://twitter.com/hamza_krb) | [Published](https://youtu.be/NA37_ldutYg)  | 5x11 |
+| Tutorials         | Bridge Developing II   | [zetsub0ii.eth](https://twitter.com/hamza_krb) | Preparing  | 5x12 |
 | Tutorials         | Patika Q&A - Staking  | [0xulas.eth](https://twitter.com/ulerdogan)    | [Published](https://www.youtube.com/watch)  | GST  |
 
 <hr/>
