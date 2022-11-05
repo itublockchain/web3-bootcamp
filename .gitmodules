@@ -1,5 +1,5 @@
-[submodule "2x3_FoundryTests/lib/forge-std"]
-	path = 2x3_FoundryTests/lib/forge-std
+[submodule "2x3_FoundryIntroduction/lib/forge-std"]
+	path = 2x3_FoundryIntroduction	/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
 [submodule "2x5_FoundryCheatcodes/lib/forge-std"]
 	path = 2x5_FoundryCheatcodes/lib/forge-std
