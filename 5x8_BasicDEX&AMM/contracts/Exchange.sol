@@ -59,7 +59,7 @@ contract Exchange {
 
     function getAmount(uint256 inputAmount, uint256 inputReserve, uint256 outputReserve) private pure returns(uint256) {
         require(inputReserve > 0 && outputReserve > 0, "invalid reserves");
-        return (inputReserve * outputReserve) / (inputReserve + inputAmount);
+        return (inputAmount * outputReserve) / (inputReserve + inputAmount); //videoda bu kısımda hata var
     }
 }
 
