@@ -146,7 +146,7 @@ This part introduces some advanced concepts in smart contract developing.
 | Advanced Concepts | EVM Explained        | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=TxgIvRhEHiU&ab_channel=ITUBlockchain)  | 6x1  |
 | Advanced Concepts | Gas Optimizations     | [tahos.eth](https://twitter.com/0xTahos)     | [Published](https://www.youtube.com/watch?v=8npYT9FpKls&ab_channel=ITUBlockchain)  | 6x2  |
 | Advanced Concepts | Chainlink Application | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://youtu.be/rf-L6sI_1hY)  | 6x3  |
-| Advanced Concepts | LayerZero Application | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published] (https://www.youtube.com/watch?v=Ioxp875TmT8)  | 6x4  |
+| Advanced Concepts | LayerZero Application | [alimsahin.eth](https://twitter.com/aalimsahin) | [Published](https://www.youtube.com/watch?v=Ioxp875TmT8)  | 6x4  |
 | Advanced Concepts | Assembly              | [tahos.eth](https://twitter.com/0xTahos)     | Preparing  | 6x5  |
 | Advanced Concepts | Proxy Contracts       | [zetsub0ii.eth](https://twitter.com/hamza_krb)     | Preparing  | 6x6  |
 
