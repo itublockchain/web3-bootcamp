@@ -13,6 +13,6 @@ Bu dersimizde blockchain ekosistemindeki büyük problemlerden bir tanesi olan b
 <br/>
 
 
-[Video İçeriği](https://www.youtube.com/watch?v=zf4orRramo4)
+[Video İçeriği](https://www.youtube.com/watch?v=Ioxp875TmT8)
 
 [Proje Dizini](./LayerZeroApplication/)
