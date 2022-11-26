@@ -23,6 +23,8 @@ Bu dersimizde Solidity ve Ethereum'a dair basit özelliklerden bahsedip Metamask
 
 [Remix IDE](https://www.remix.ethereum.org)
 
-[Names Kontrat Örneği - Rinkeby @ 0x43557ed01dFb3Db167aEA5c0f4981847E6DD64fa](./Names.sol)
+[Names Kontrat Örneği - Rinkeby](./Names.sol)
+- - [Rinkeby üzerindeki Names Kontrat](https://rinkeby.etherscan.io/address/0x43557ed01dFb3Db167aEA5c0f4981847E6DD64fa)
+- - **NOT: Ropsten, Rinkeby ve Kovan** test ağları kullanımdan kaldırıldı. Test ağlarında geliştirme süreçleri için **Goerli** ya da **Sepolia** ağlarını tercih edebilirsiniz.
 
 [Discord Kanalımız](https://discord.gg/5HzQ4QzBGS)
