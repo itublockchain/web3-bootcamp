@@ -8,4 +8,4 @@ Bu dersimizde akıllı kontrat güvenliğine giriş yaptık ve akıllı kontrat 
 
 [Exploit2.sol](./Exploit2.sol)
 
-[Secureum Yazıları](secureum.substack.com)
+[Secureum Yazıları](https://secureum.substack.com)
