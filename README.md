@@ -22,7 +22,7 @@ Please [contact us](mailto:blockchain@itu.edu.tr) if you are willing to contribu
 
 # Meet the Instructors
 
-All of the educational content are prepared by our board & community members by ❤️
+All of the educational content are prepared by our board & community members with ❤️
 
 * [0xulas.eth](https://twitter.com/ulerdogan)
 * [alimsahin.eth](https://twitter.com/aalimsahin)
