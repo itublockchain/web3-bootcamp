@@ -170,3 +170,4 @@ From now on, Post-Mortem Analyzes will be carried out under this series with a l
 | Otopsi 2   | Tornado Cash | [Go](https://www.youtube.com/watch?v=TYc3pBlQGM0&list=PLby2HXktGwN6xdcr2RHMhdmpHUvt3SbnQ&index=3&ab_channel=ITUBlockchain)        |
 | Otopsi 3.0 | FTX Collapse | [Go](https://www.youtube.com/watch?v=3GLuX7jDAd0)        |
 | Otopsi 3.1 | FTX Collapse and Beyond | [Go](https://www.youtube.com/watch?v=qK0nSIHtra4)        |
+| Otopsi 4   | Silicon Valley Bank     | [Go](https://www.youtube.com/live/ICSKx-0-Z20)        |
