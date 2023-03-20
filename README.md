@@ -171,3 +171,4 @@ From now on, Post-Mortem Analyzes will be carried out under this series with a l
 | Otopsi 3.0 | FTX Collapse | [Go](https://www.youtube.com/watch?v=3GLuX7jDAd0)        |
 | Otopsi 3.1 | FTX Collapse and Beyond | [Go](https://www.youtube.com/watch?v=qK0nSIHtra4)        |
 | Otopsi 4   | Silicon Valley Bank     | [Go](https://www.youtube.com/live/ICSKx-0-Z20)        |
+| Otopsi 5   | Euler Finance Hack | [Go](https://www.youtube.com/watch?v=O3xkTcJKtdY&ab_channel=ITUBlockchain)        |
